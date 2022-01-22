@@ -9,7 +9,7 @@ with open('README.rst', 'r', encoding='utf-8') as f:
     long_description = f.read()
 
 setup(
-    name='webbot',
+    name='ragwebbot',
 
 
     packages = ['webbot','webbot.drivers'] ,
